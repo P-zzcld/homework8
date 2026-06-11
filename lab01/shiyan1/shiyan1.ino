@@ -1,5 +1,5 @@
 // 定义LED引脚，ESP32通常板载LED连接在GPIO 2
-const int ledPin = 4; 
+const int ledPin = 2; 
 
 void setup() {
   // 初始化串口通信，设置波特率为115200
